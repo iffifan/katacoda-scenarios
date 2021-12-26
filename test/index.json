@@ -29,8 +29,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
-  "backend": {
+  "environment": {
+    "uilayout": "terminal"
+  },"backend": {
     "imageid": "php"
   }
 }
